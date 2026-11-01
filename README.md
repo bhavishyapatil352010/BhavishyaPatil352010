@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="file_00000000754c82079dadd144d0b977f7.png"
+    alt="Bhavishya Patil - AI/ML Developer"
+    width="100%"
+  />
+</p>
+
+<br/>
 Bhavishya Patil
 
 Student Developer | Aspiring AI/ML Engineer
