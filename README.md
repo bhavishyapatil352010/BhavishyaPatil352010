@@ -1,6 +1,21 @@
 <div align="center">
   <img src="github-profile-banner.gif" width="100%" alt="GitHub Profile Banner">
 </div>
+<h2 align="center">⚡ Skills & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,git,github,vscode,linux&theme=dark" />
+</p>
+
+<h3 align="center">Currently Exploring</h3>
+
+<p align="center">
+  Artificial Intelligence • Machine Learning • LLMs
+  <br>
+  Transformers • Data Structures • Backend Development
+</p>
+
+---
 Bhavishya Patil
 
 Student Developer | Aspiring AI/ML Engineer
