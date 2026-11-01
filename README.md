@@ -28,7 +28,7 @@ I believe in understanding how technology works from the ground up — not just 
 
 About Me
 
-- Currently a student and aspiring software engineer.
+- Currently a student and aspiring AI/ML engineer.
 - Learning Python and Rust.
 - Exploring Artificial Intelligence, Machine Learning and LLM engineering.
 - Interested in building APIs, developer tools and intelligent systems.
@@ -43,12 +43,6 @@ Language Models| LLMs and Transformers
 Software Engineering| OOP, Data Structures and Algorithms
 Backend Development| APIs and System Design
 
-Technologies & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,rust,git,github,vscode,linux" />
-</p>Current Focus
-
 - Strengthening Python fundamentals.
 - Learning Rust and its ownership system.
 - Understanding Data Structures and Algorithms.
@@ -56,20 +50,8 @@ Technologies & Tools
 - Building practical software projects.
 
 Projects
-
-I use projects to turn concepts into practical experience.
-
-Featured projects will be added here as they develop.
-
----
-
-My Philosophy
-
-«Learn the fundamentals. Build from scratch. Improve through experimentation.»
-
-I am at the beginning of my journey, and this profile will grow alongside my skills and projects.
-
----
+I am still learning concepts
+I will make projects eventually
 
 <p align="center">
   <b>BUILD • LEARN • EXPERIMENT • REPEAT</b>
